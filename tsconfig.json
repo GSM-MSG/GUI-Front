@@ -25,6 +25,18 @@
       ],
       "@store/*": [
         "./store/*"
+      ],
+      "@components": [
+        "./components"
+      ],
+      "@hooks": [
+        "./hooks"
+      ],
+      "@types": [
+        "./types"
+      ],
+      "@types/*": [
+        "./types/*"
       ]
     }
   },
